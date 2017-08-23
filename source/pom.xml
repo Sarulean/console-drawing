@@ -26,7 +26,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.creditsuisse.consoledrawing.Main</mainClass>
+                            <mainClass>com.thangbui.consoledrawing.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -36,7 +36,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.3.2</version>
                 <configuration>
-                    <mainClass>com.creditsuisse.consoledrawing.Main</mainClass>
+                    <mainClass>com.thangbui.consoledrawing.Main</mainClass>
                 </configuration>
             </plugin>
             <plugin>
